@@ -1,0 +1,14 @@
+{
+    "name": "tokped-scrapper",
+    "version": "1.0.0",
+    "description": "tokped scrapper for testing bananas.id",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "lucky fernanda",
+    "license": "ISC",
+    "dependencies": {
+        "puppeteer": "^15.2.0"
+    }
+}
